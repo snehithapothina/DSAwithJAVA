@@ -1,5 +1,5 @@
 /*
- * This class implements a LinkedList with methods to:
+ * This File implements a LinkedList with methods to:
  * 1. Append a node to the end,
  * 2. Prepend a node to the beginning,
  * 3. Insert a node at a specific index,
