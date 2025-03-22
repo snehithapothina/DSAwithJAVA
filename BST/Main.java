@@ -80,8 +80,6 @@ public class Main{
         System.out.println(BST.root.right.left.right.value);
         System.out.println("Is node 15 in BST? "+ BST.lookup(15));
         System.out.println("Is node 1 in BST? "+ BST.lookup(1));
-
-
     }
 
 
